@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryuk904
+- 👋 Hi, I’m Abhishek Prajapati
 - 👀 I’m interested in Competetive Programming and Web Development.
 - 🌱 I’m currently learning Backend part of Web Development
 
